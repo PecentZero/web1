@@ -1,3 +1,4 @@
-<script>
-alert(1);
-</script>
+function hello()
+{ alert(1);
+}
+hello();
